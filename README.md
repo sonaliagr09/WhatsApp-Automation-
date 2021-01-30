@@ -1,1 +1,2 @@
-# WhatsApp-Automation-
+# Whatsapp Automation using Python
+This project is based on WhatsApp Automation using Selenium and python. The code reads contacts (should be saved in mobile) from an excel file named contacts.csv which is stored in same folder as the main python file and stores them in a python list. The chat corresponding to each name in the list is sent the common message, thus making it easy for business marketing campaigns and greeting messages.
